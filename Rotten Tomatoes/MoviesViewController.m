@@ -166,10 +166,12 @@
         if (connectionError == NULL) {
             NSDictionary *responseDictionary = [NSJSONSerialization JSONObjectWithData:data options:0 error:NULL];
             self.movies = responseDictionary[@"movies"];
+            [self.searchBar setHidden:NO];
             [self.networkError setHidden:YES];
             [self.tableView reloadData];
         } else {
             [self.networkError setHidden:NO];
+            [self.searchBar setHidden:YES];
         }
         [SVProgressHUD dismiss];
         [self.refreshControl endRefreshing];

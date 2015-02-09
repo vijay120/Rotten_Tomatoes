@@ -2,7 +2,7 @@
 
 This is a movies app displaying box office and top rental DVDs using the [Rotten Tomatoes API](http://developer.rottentomatoes.com/docs/read/JSON).
 
-Time spent: 13
+Time spent: 13 hours
 
 ### Features
 
@@ -25,7 +25,8 @@ Time spent: 13
 - [x] Add a search bar: pretty simple implementation of searching against the existing table view data.
 
 ### Walkthrough
-![Video Walkthrough](http://i.imgur.com/9d4fXIm.gif)
+![Video Walkthrough](http://i.imgur.com/BAcdnT4.gif)
+
 
 Credits
 ---------
