@@ -26,10 +26,10 @@ Time spent: 13 hours
 
 ### Walkthrough
 
-#Normal walkthrough
+###Normal walkthrough
 ![Video Walkthrough](http://i.imgur.com/BAcdnT4.gif)
 
-#Network error walkthrough
+###Network error walkthrough
 ![Error Walkthrough](http://i.imgur.com/87Hij9x.gif)
 
 
